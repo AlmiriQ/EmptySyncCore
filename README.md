@@ -1,0 +1,2 @@
+# EmptySyncCore
+Core for EmptySync
